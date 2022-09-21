@@ -30,3 +30,14 @@ $$ E_1E_2 = \sqrt{{O_1O_2}^2 - \left(r_1 + r_2\right)^2} $$
 2. $O_2T$ szakasz $E_2$-ben metszi a kört
 3. Merőlegest szerkesztünk az $O_2E_2$ sugárra
 
+## Érintő körök esetén
+
+![](imgs/belső-közös-érintő-érintő-körök.png)
+
+$E_1E_2$, $F_1F_2$ [külső közös érintő](külső-közös-érintők.md).
+
+Az $MK_1 = MB$, mert $M$ a $k_1$ kör érintőinek metszésopontja, hasonlóan $MK_2 = MB$.
+
+Mivel az ábra tengelyszimmetrikus, így $MB = BN$.
+
+Tehát $MN = MB + BN = 2MB = MK_1+MK_2 = K_1K_2 = 2\sqrt{r_1r_2}$ (lásd [érintő körök külső érintőinek hossza](külső-közös-érintők.md#érintő-körök-esetén))
