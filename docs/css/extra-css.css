@@ -4,3 +4,7 @@ img {
     margin-right: auto;
     display: block;
 }
+
+[data-md-color-scheme="slate"] img {
+    filter: invert(1);
+}
