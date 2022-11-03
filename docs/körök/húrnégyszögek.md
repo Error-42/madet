@@ -36,3 +36,7 @@ $AED_\Delta \sim BCD_\Delta$, mert (SSS-eset)
 $\Rightarrow \frac{AE}{d} = \frac{d}{e} \Rightarrow e \cdot AE = bd$ (II.)
 
 (I.) + (II.): $e\left(AE+CE\right)=ac+bd \Rightarrow ef = ac+bd$
+
+### Megfordítása
+
+Megfordítása igaz.
