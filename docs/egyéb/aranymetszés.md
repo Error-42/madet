@@ -61,6 +61,12 @@ Hasonlóan az aranymetszés értékének kiszámításához, $PA>0 \Rightarrow P
 
 A szárak és az alap hányadosa $\Phi$.
 
-### 
+## Szabályos tízszög szerkesztése
+
+Szerkesszünk 72°; 72°; 36° szögekkel rendelkező $a$ alapú háromszöget. Ez a szabályos tízszög egy tizede lesz. Az alap a szabályos tízszög egy oldala, a két szár a szabályos tízszög köréírható körének két sugara. A köréírható kört megszerkesztve az $a$ oldalt további 9-szer rámérve megkapjuk a szabályos tízszöget. 
+
+### Szabályos ötszög szerkesztése
+
+A szabályos tízszög minden 2. csúcsát kössük össze.
 
 [^1]: Bizonyos leírásokban $\frac{b}{a}$.
