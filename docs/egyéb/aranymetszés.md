@@ -51,9 +51,11 @@ $$a = PA \left(PA + 2r \right)$$
 
 $$a = PA^2 + 2r \cdot PA$$
 
-$$PA^2 + 2r \cdot PA - a = 0$$
+$$PA^2 + a \cdot PA - a = 0$$
 
-todo: befejezni
+$$PA_{1,2} = \frac{-a \pm \sqrt{a^2+5a^2}}{2}=a \cdot \frac{-1\pm\sqrt5}{2}$$
+
+Hasonlóan az aranymetszés értékének kiszámításához, $PA>0 \Rightarrow PA=a \cdot \frac{-1+\sqrt5}{2}=PE \cdot \frac{\sqrt5-1}{2}$.
 
 ## 72°; 72°; 36° háromszög
 
