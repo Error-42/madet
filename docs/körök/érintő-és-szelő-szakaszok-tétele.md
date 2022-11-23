@@ -21,4 +21,4 @@ $\Rightarrow \frac{PE}{PA} = \frac{PB}{PE} \Rightarrow PE^2 = PA \cdot PB$.
 
 ### Alkalmazás
 
-- [Aranymetszés szerkesztése](../egyéb/%C3%B6tsz%C3%B6g-aranymetsz%C3%A9s.md#2.%20bizonyítás)
+- [Aranymetszés szerkesztése](../egyéb/aranymetsz%C3%A9s.md#2.%20bizonyítás)
