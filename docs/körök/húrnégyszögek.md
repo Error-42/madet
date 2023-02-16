@@ -17,6 +17,10 @@ Szemközti szögeinek összege $180°$.
 
 Nézzük a körülírható körét. A két szemközti szöge kerületi szög, melyek komplementer ívekhez tartoznak, tehát összegük $180°$.
 
+### Megfordítás
+
+Ha egy négyszögben két szemközti szög összege $180°$, akkor a négyszög húrnégyszög.
+
 ## Ptolemaiosz tétel
 
 Adott húrnégyszög rendre $a$, $b$, $c$, $d$ oldalakkal, $e$, $f$ átlókkal, akkor $ef = ac + bd$.
